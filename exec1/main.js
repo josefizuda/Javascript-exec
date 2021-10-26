@@ -9,3 +9,10 @@ let corRaca = null; // Redefinir Valor
 
 
 console.log(nomeCompleto);
+console.log(cidade);
+console.log(empresa);
+console.log(peso);
+console.log(estudaProgramacao);
+console.log(idade);
+console.log(altura);
+console.log(corRaca);
